@@ -5,11 +5,10 @@ A simple C program where the computer picks a random number and the player tries
 ## ✨ Features
 - Random number generation  
 - Feedback: "Too High", "Too Low", "Correct!"  
-- Tracks attempts  
+- Tracks attempts
+Author - Priyanshu Bisht
 
 ## 🚀 How to Run
 ```bash
 gcc number_guessing_game.c -o number_guessing_game
 ./number_guessing_game
-
-Author - Priyanshu Bisht
