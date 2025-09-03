@@ -6,6 +6,7 @@ A simple C program where the computer picks a random number and the player tries
 - Random number generation  
 - Feedback: "Too High", "Too Low", "Correct!"  
 - Tracks attempts
+<br>
 Author - Priyanshu Bisht
 
 ## 🚀 How to Run
